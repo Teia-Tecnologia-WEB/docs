@@ -11,5 +11,5 @@ $criarprojeto = 0, #9
 $criarempresa = 0, #10
 $criarauth = 0, #11
 $registrounico = 0, #12
-$carregarlibjavascript = 1 #13
+$carregarlibjavascript = 1, #13
 $criarinativo = true #14
