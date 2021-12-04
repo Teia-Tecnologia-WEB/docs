@@ -1,0 +1,9 @@
+	/*  
+    		* [Method Name]
+    		* Data de Criacao: DD/MM/YYYY
+    		* @author [ XXXX ] (XXX)
+
+		Short Description
+    		@[argument]: Datatype
+		@return: Datatype
+	*/

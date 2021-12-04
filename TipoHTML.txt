@@ -1,0 +1,31 @@
+﻿1 - Texto ( Curto )
+2 - Texto ( Médio )
+3 - Texto ( Longo )
+4 - Lista de Seleção Única
+5 - Lista de Seleção Múltipla
+6 - Senha
+7 - Checkbox
+8 - Telefone (xx) xxxx-xxxxx
+9 - CEP (xxxxx-xxx)
+10 - CPF (xxx.xxx.xxx-xx)
+11 - Data (dd/mm/aaaa)
+12 - E-Mail
+13 - Monetário R$
+14 - Área de Texto
+15 - CNPJ (xx.xxx.xxx/xxxx-xx)
+16 - Oculto
+17 - CPFJ ( Cpf e Cnpj )
+18 - Número de Processo Judicial
+19 - Arquivo ( Caminho )
+20 - Arquivo ( Físico )
+21 - Editor de Texto e HTML ( CK Editor )
+22 - Filtro ( Pesquisa )
+23 - Data e Hora ( dd/mm/aaaa hh:mm:ss )
+24 - Filtro ( Endereço )
+25 - Número ( Inteiro )
+26 - Número ( Decimal )
+27 - Multi Linha
+28 - Hora ( Tempo )
+29 - Referencia ( Mês/Ano )
+30 - Is Null e Is Empty
+31 - Percentual

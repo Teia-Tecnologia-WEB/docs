@@ -1,0 +1,4 @@
+$conn, #0 
+$entidade, #1
+$descricao, #2
+$atributos #3 // Separador por virgunla em forma de string ou uma array

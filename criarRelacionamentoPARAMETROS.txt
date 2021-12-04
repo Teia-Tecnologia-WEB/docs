@@ -1,0 +1,8 @@
+$conn,$tipo,$entidadePai,$entidadeFilho,$descricao,$atributo
+
+$conn #1,
+$tipo #2,
+$entidadePai #3,
+$entidadeFilho #4,
+$descricao = "" #5,
+$atributo = 0 #6
